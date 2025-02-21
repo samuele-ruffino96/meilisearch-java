@@ -221,17 +221,6 @@ index.search(
 ```java
 import com.meilisearch.sdk.SearchResultPaginated;
 
-// ...
-
-SearchResultPaginated results = (SearchResultPaginated) index.search(
-    new SearchRequest("wonder")
-        .setPage(1)
-        .setHitsPerPage(20)
-);
-```
-
-```json
-{
     "hits": [
         {
             "id": 2,
