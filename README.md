@@ -237,13 +237,7 @@ import com.meilisearch.sdk.SearchResultPaginated;
 }
 ```
 
-## 🛠 Customization
-
-### JSON <!-- omit in toc -->
-
-#### Default JSON `GsonJsonHandler` <!-- omit in toc -->
-
-The default JSON library is `Gson`. You can however use another library with the `JsonHandler` Class.
+## 🛠 Customizati. You can however use another library with the `JsonHandler` Class.
 
 *Notes*: We strongly recommend using the `Gson` library.
 
